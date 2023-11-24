@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lakshmi1202
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Masters in Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Contact me through lakshmideviv2002@gmail.com
 
 <!---
 lakshmi1202/lakshmi1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
