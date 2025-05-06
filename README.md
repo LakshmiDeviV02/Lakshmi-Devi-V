@@ -17,9 +17,12 @@ My focus is on data visualization, predictive analytics, and real-world problem 
 
 📊 Projects
 
-| [Alzheimer's Disease Detection](https://github.com/lakshmi1202/Alzheimers-Detection) | ML model (XGBoost, SVM) using MRI + clinical data | Python, Jupyter, Scikit-Learn |
-| [IBM HR Analytics Dashboard](https://github.com/lakshmi1202/IBM-HR-Analytics) | Power BI dashboard for HR trends and attrition | Power BI, SQL |
-| [Portfolio Optimization (Nifty 50)](https://github.com/lakshmi1202/Portfolio-Optimization-Nifty50) | Investment strategy app with Flask | Python, PostgreSQL, Flask |
+- [Alzheimer's Disease Detection](https://github.com/lakshmi1202/Alzheimers-Detection)
+  | ML model (XGBoost, SVM) using MRI + clinical data | Python, Jupyter, Scikit-Learn |
+- [IBM HR Analytics Dashboard](https://github.com/lakshmi1202/IBM-HR-Analytics)
+  | Power BI dashboard for HR trends and attrition | Power BI, SQL |
+- [Portfolio Optimization (Nifty 50)](https://github.com/lakshmi1202/Portfolio-Optimization-Nifty50)
+  | Investment strategy app with Flask | Python, PostgreSQL, Flask |
 
 📜 Certifications
 
@@ -30,6 +33,6 @@ My focus is on data visualization, predictive analytics, and real-world problem 
 
 🎯 Currently
 
-🎓 Completed MSc in Data Science, 2023–2025
-🧠 Interested in AI applications in healthcare and finance
-🔍 Actively seeking entry-level Data Analyst or Data Scientist roles
+- Completed MSc in Data Science, 2023–2025
+- Interested in AI applications in healthcare and finance
+- Actively seeking entry-level Data Analyst or Data Scientist roles
