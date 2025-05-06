@@ -1,8 +1,10 @@
 👋 Hi, I'm Lakshmi Devi V
 
-🎓 Data Science Graduate (MSc, 2025) | 💻 Data Analyst Virtual Intern @ Unified Mentor Private Ltd.
+Data Science Graduate (MSc, 2025) | 💻 Data Analyst Virtual Intern @ Unified Mentor Private Ltd.
 📍 Tirunelveli, India  
-📫 lakshmideviv2002@gmail.com | [LinkedIn](https://www.linkedin.com/in/lakshmideviv02) | [GitHub](https://github.com/lakshmi1202)
+📫 lakshmideviv2002@gmail.com 
+| [LinkedIn](https://www.linkedin.com/in/lakshmideviv02) 
+| [GitHub](https://github.com/lakshmi1202)
 
 🚀 About Me
 
